@@ -1,0 +1,7 @@
+{
+    "plugin-data":
+    {
+        "name": "Heartbeat",
+        "description": "Alerts you to take a backup when network loss or session expiry occurs."
+    }
+}
